@@ -1,9 +1,7 @@
 ---
 layout: default
 title: croesch
-subtitle: Check
+subtitle: software developer
 ---
 
-# croesch
-
-It works..
+You're being redirected to [croesch.de](http://croesch.de) in 10 seconds.
