@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Partimana
+title: croesch
+subtitle: Check
 ---
 
 # croesch
 
-Does this work?
+It works..
